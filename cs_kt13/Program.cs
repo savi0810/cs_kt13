@@ -15,7 +15,7 @@ namespace cs_kt13
             int a = 10, b = 20;
             Console.WriteLine($"Max({a}, {b}) = {GenericMethods.Max(a, b)}");
 
-            string s1 = "apple", s2 = "c#";
+            string s1 = "1111", s2 = "111";
             Console.WriteLine($"Max(\"{s1}\", \"{s2}\") = \"{GenericMethods.Max(s1, s2)}\"");
 
             DateTime date1 = new DateTime(2023, 1, 1);
